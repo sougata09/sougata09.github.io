@@ -36,3 +36,6 @@ contributor, programmer from Kolkata, India.
  - C
  - Hadoop
  
+ **Let’s connect if you want to collab and create something awesome in the world of open source tech.
+ Follow the social media links given below or drop a mail.**
+ 
